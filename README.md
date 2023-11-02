@@ -2,6 +2,8 @@ Classic 2-Tier Web Application using Terraform and AWS.
 
 In this lab I created a classic 2-tier Web Application running Apache with a AWS Load Balancer & EC2 instance & RDS Database.
 
+![Architectural Diagram](image.png)
+
 AWS Resources used:
 -VPC
 -Application Load Balancer
